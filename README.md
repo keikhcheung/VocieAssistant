@@ -1,4 +1,4 @@
-# VocieAssistant
+# VoiceAssistant
 
 Twine files for my master's thesis:
 
